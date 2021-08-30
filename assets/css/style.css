@@ -12,3 +12,7 @@ p a,
     list-style-type: none;
     padding: 0;
 }
+
+.container {
+    max-width: 648px;
+}
