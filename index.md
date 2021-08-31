@@ -24,7 +24,7 @@ I received a diploma in electrical and computer engineering at the Polytechnic S
 </p>
 
 <p>
-<strong> Email:</strong> This would be my first name followed by a dot then my family name and lastly at centralesupelec.fr
+<strong> Email:</strong> stergios [dot] christodoulidis [at] centralesupelec [dot] fr
 </p>
 
 </div>
