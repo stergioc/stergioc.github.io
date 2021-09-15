@@ -16,3 +16,7 @@ p a,
 .container {
     max-width: 767px;
 }
+
+.navbar {
+    padding: 0.5rem 0;
+}

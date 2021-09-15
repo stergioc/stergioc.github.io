@@ -3,11 +3,9 @@ layout: home
 title: Home
 ---
 
-<div class="w-25 m-3 float-start">
+<div class="w-25 m-3 float-left">
     <img class="img-fluid z-depth-1 rounded-circle" src="/assets/img/photo3.jpeg">
 </div>
-
-<div class="clearfix text-justify">
 
 <p>
 I am an assistant professor at the mathematics department of <a href="https://www.centralesupelec.fr/" target="_blank">CentraleSupélec</a> in Paris, France. I am also a part of the <a href="http://biomathematics.mics.centralesupelec.fr/" target="_blank">βiomathematics</a> group of <a href="http://mics.centralesupelec.fr/" target="_blank">MICS Laboratory</a> working on machine learning methods applied in medical applications.
@@ -26,8 +24,6 @@ I received a diploma in electrical and computer engineering at the Polytechnic S
 <p>
 <strong> Email:</strong> stergios [dot] christodoulidis [at] centralesupelec [dot] fr
 </p>
-
-</div>
 
 
 
