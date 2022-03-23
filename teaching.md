@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 
-<strong><a href="https://centralesupelec.edunao.com/course/view.php?id=3753">3MD4120: Reinforcement Learning</a></strong>  
+<strong><a href="https://centralesupelec.edunao.com/course/view.php?id=3753">3MD3220: Reinforcement Learning</a></strong>  
 Course, CentraleSupélec  
 *2021-2022*
 
