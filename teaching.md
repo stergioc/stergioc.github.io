@@ -5,7 +5,7 @@ title: Teaching
 
 <h5>Current Courses:</h5>
 
-<a href="https://centralesupelec.edunao.com/course/view.php?id=5185" target="_blank">ML-CNN: Machine Learning</a>, Course, CentraleSupélec, *2022-2023*  
+<a href="https://centralesupelec.edunao.com/course/view.php?id=6186" target="_blank">ML-CNN: Machine Learning</a>, Course, CentraleSupélec, *2022-2023*  
 
 <h5>Previous Courses:</h5>
 
