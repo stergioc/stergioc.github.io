@@ -1,8 +1,11 @@
 <div class="row">
 
+  {% for category in site.categories reversed %}
+
+  <p class="h5" id="{{ category | first }}">{{ category | first }}</p>
+
   <ul class="list-group">
-    {% for post in site.tags.paper %}
-    {% if post.url %}
+    {% for post in category.last %}
     <a href="{{post.url}}" class="btn btn-light">
       <li class="list-group-item text-left d-inline-block">
         <div>
@@ -11,9 +14,9 @@
         </div>
       </li>
     </a>
-    {% endif %}
     {% endfor %}
-
   </ul>
+
+  {% endfor %}
 
 </div>

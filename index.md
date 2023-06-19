@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Home
 ---
 
@@ -17,9 +17,7 @@ I received a diploma in electrical and computer engineering at the Polytechnic S
 
 </p>
 
-<p>
-<strong> Research Interests:</strong> Medical Image computing, Deep Learning, Multimodal Omics
-</p>
+{% include axes.html %}
 
 <p>
 <strong> Email:</strong> stergios [dot] christodoulidis [at] centralesupelec [dot] fr
