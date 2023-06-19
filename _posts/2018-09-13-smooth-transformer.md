@@ -7,6 +7,12 @@ tags: paper
 image: /assets/img/miccai18.png
 ---
 
+Stergios Christodoulidis, Mihir Sahasrabudhe, Maria Vakalopoulou, Guillaume Chassagnon, Marie-Pierre Revel, Stavroula Mougiakakou, Nikos Paragios
+
+*MICCAI 2018, workshop on Image Analysis for Moving Organ, Breast, and Thoracic Images (RAMBO)*
+
+[[proceedings](https://link.springer.com/chapter/10.1007/978-3-030-00946-5_2)], [[arxiv](https://arxiv.org/abs/1809.06226)], [[code](https://github.com/stergioc/smooth-transformer)]
+
 <div class="row">
     <div class="mx-auto w-75 pb-5">
         <img src="/assets/img/miccai18.png" width="100%"/>
@@ -15,4 +21,13 @@ image: /assets/img/miccai18.png
 
 **Abstract:** Image registration and in particular deformable registration methods are pillars of medical imaging. Inspired by the recent advances in deep learning, we propose in this paper, a novel convolutional neural network architecture that couples linear and deformable registration within a unified architecture endowed with near real-time performance. Our framework is modular with respect to the global transformation component, as well as with respect to the similarity function while it guarantees smooth displacement fields. We evaluate the performance of our network on the challenging problem of MRI lung registration, and demonstrate superior performance with respect to state of the art elastic registration methods. The proposed deformation (between inspiration & expiration) was considered within a clinically relevant task of interstitial lung disease (ILD) classification and showed promising results.
 
-[[proceedings](https://link.springer.com/chapter/10.1007/978-3-030-00946-5_2)], [[arxiv](https://arxiv.org/abs/1809.06226)], [[code](https://github.com/stergioc/smooth-transformer)]
+<pre>
+@inproceedings{stergios2018linear,
+  title={Linear and deformable image registration with 3d convolutional neural networks},
+  author={Stergios, Christodoulidis and Mihir, Sahasrabudhe and Maria, Vakalopoulou and Guillaume, Chassagnon and Marie-Pierre, Revel and Stavroula, Mougiakakou and Nikos, Paragios},
+  booktitle={Image Analysis for Moving Organ, Breast, and Thoracic Images: Third International Workshop, RAMBO 2018, Fourth International Workshop, BIA 2018, and First International Workshop, TIA 2018, Held in Conjunction with MICCAI 2018, Granada, Spain, September 16 and 20, 2018, Proceedings 3},
+  pages={13--22},
+  year={2018},
+  organization={Springer}
+}
+</pre>
