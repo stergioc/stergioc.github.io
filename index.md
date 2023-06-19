@@ -8,7 +8,7 @@ title: Home
 </div>
 
 <p>
-I am an assistant professor at the mathematics department of <a href="https://www.centralesupelec.fr/" target="_blank">CentraleSupélec</a> in Paris, France. I am also a part of the <a href="http://biomathematics.mics.centralesupelec.fr/" target="_blank">βiomathematics</a> group of <a href="http://mics.centralesupelec.fr/" target="_blank">MICS Laboratory</a> working on machine learning methods applied in medical applications.
+I am an assistant professor at the mathematics department of <a href="https://www.centralesupelec.fr/en" target="_blank">CentraleSupélec</a>, <a href="https://www.universite-paris-saclay.fr/en" target="_blank">University Paris-Saclay</a> in France. I am also a part of the <a href="http://biomathematics.mics.centralesupelec.fr/" target="_blank">βiomathematics</a> group of <a href="http://mics.centralesupelec.fr/" target="_blank">MICS Laboratory</a> working on machine learning methods applied in medical applications.
 </p>
 
 <p>
