@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include header.html %}
+  
+<body>
+    <div class="pt-5">
+        <div class="container">
+              {% include navbar.html %}
+              <div class="mt-5">
+                <h1 class="mb-5 display-4"> {{page.title}} </h1>
+                  {{ content }}
+                  {% include papers.html %}
+              </div>
+        </div>
+    </div>
+</body>
+
+{% include footer.html %}
+
+</html>

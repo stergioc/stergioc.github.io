@@ -1,0 +1,18 @@
+<div class="row">
+  <div>
+    
+    <ul class="list-group">
+      {% for post in site.tags.paper %}
+      {% if post.url %}  
+      <a href="{{ post.url }}" class="btn btn-light">
+        <li class="list-group-item">
+          <img src="{{ post.image }}" class="w-25 img-fluid rounded-start rounded img-thumbnail" alt="...">
+          {{ post.title }}
+        </li>
+      </a>
+      {% endif %}
+      {% endfor %}
+
+    </ul>
+  </div>
+</div>

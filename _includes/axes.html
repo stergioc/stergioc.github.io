@@ -1,7 +1,9 @@
-<h1 class="mb-3 display-4">Research Projects</h1>
+<h1 class="mb-3 display-4">Research Axes</h1>
 
-<div class="card border-0">
-    {% for post in site.categories.project %}
+{% for category in site.categories %}
+    <li><a href="{{category.url}}"><strong>{{category|first}}</strong></a></li>
+{% endfor %}
+    <!-- {% for post in site.categories.project %}
     {% if post.url %}
     <div class="row g-0 p-1 m-1">
       <div class="col-md-3">
@@ -16,5 +18,5 @@
       </div>
     </div>
     {% endif %}
-    {% endfor %}
-  </div>
+    {% endfor %} -->
+</div>
