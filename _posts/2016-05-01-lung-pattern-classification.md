@@ -2,7 +2,7 @@
 layout: page
 title:  "Lung pattern classification for interstitial lung diseases using a deep convolutional neural network"
 date:   2016-05-01 00:00:00 +0100
-categories: [Radiology Quantification]
+categories: [Radiology Data Quantification]
 tags: paper
 image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/42/7463083/7422082/7422082-fig-3-source-small.gif
 ---

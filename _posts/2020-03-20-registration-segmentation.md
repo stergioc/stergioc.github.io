@@ -2,7 +2,7 @@
 layout: page
 title:  "Deep learning-based concurrent brain registration and tumor segmentation"
 date:   2020-03-20 00:00:00 +0100
-categories: [Lung Registration]
+categories: [Learning Based Registration]
 tags: paper
 image: https://www.frontiersin.org/files/Articles/482795/fncom-14-00017-HTML-r2/image_m/fncom-14-00017-g005.jpg
 ---

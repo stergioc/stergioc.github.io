@@ -2,7 +2,7 @@
 layout: page
 title:  "Semantic Segmentation of Pathological Lung Tissue with Dilated Fully Convolutional Networks"
 date:   2019-03-01 00:00:00 +0100
-categories: [Radiology Quantification]
+categories: [Radiology Data Quantification]
 tags: paper
 image: /assets/img/jbhi18.png
 ---

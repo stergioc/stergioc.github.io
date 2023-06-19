@@ -2,7 +2,7 @@
 layout: page
 title:  "Linear and Deformable Image Registration with 3D Convolutional Neural Networks"
 date:   2018-09-13 00:00:00 +0100
-categories: [Lung Registration]
+categories: [Learning Based Registration]
 tags: paper
 image: /assets/img/miccai18.png
 ---

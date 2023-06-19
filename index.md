@@ -17,11 +17,10 @@ I received a diploma in electrical and computer engineering at the Polytechnic S
 
 </p>
 
-{% include axes.html %}
-
 <p>
 <strong> Email:</strong> stergios [dot] christodoulidis [at] centralesupelec [dot] fr
 </p>
 
+{% include axes.html %}
 
 
