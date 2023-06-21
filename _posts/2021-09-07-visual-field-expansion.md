@@ -4,7 +4,7 @@ title:  "Self-Supervised Representation Learning using Visual Field Expansion on
 date:   2021-07-21 00:00:00 +0100
 categories: [Computational Pathology]
 tags: paper
-image: /assets/img/cdpath_iccv21.png
+image: /assets/img/vfe.gif
 short_desc: Region-guided CycleGANs for stain transfer
 ---
 
@@ -16,7 +16,7 @@ Joseph Boyd, Mykola Liashuha, Eric Deutsch, Nikos Paragios, Stergios Christodoul
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">
-        <img src="/assets/img/cdpath_iccv21.png" alt="iccv21" width="100%"/>
+        <img src="/assets/img/vfe.gif" alt="iccv21" width="100%"/>
     </div>
 </div>
 
