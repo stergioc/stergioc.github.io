@@ -3,6 +3,9 @@ layout: page
 title: Teaching
 ---
 
+**2023/2024**  
+<a href="https://centralesupelec.edunao.com/course/view.php?id=7806" target="_blank">ML-C: Machine Learning</a>, MSc CNN, CS3A, CentraleSupélec, *Fall 2023* 
+
 **2022/2023**  
 <a href="https://centralesupelec.edunao.com/course/view.php?id=6211" target="_blank">3MD3220: Reinforcement Learning</a>, MSc DSBA, MSc AI, CS3A, CentraleSupélec, *Winter 2023*  
 <a href="https://centralesupelec.edunao.com/course/view.php?id=6101" target="_blank">MA9027: Foundations of Deep learning</a>, MSc DSBA, CentraleSupélec, *Fall 2022*   
