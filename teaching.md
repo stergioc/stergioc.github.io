@@ -4,6 +4,7 @@ title: Teaching
 ---
 
 **2023/2024**  
+<a href="https://centralesupelec.edunao.com/course/view.php?id=7125" target="_blank">MA9038: Foundations of Deep learning</a>, MSc AI, CentraleSupélec, *Fall 2023*   
 <a href="https://centralesupelec.edunao.com/course/view.php?id=7806" target="_blank">ML-C: Machine Learning</a>, MSc CNN, CS3A, CentraleSupélec, *Fall 2023*  
 <a href="https://centralesupelec.edunao.com/course/view.php?id=6849" target="_blank">3MD1050: Harmonic Analysis</a>, Tutorials on Applications, CS3A, CentraleSupélec, *Fall 2023* 
 
