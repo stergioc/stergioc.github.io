@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<div class="w-25 m-3 float-left">
+<div class="col-12 col-sm-4 mb-3 float-left">
     <img class="img-fluid z-depth-1 rounded-circle" src="/assets/img/photo3.jpeg">
 </div>
 
@@ -20,8 +20,6 @@ I received a diploma in electrical and computer engineering at the Polytechnic S
 <p>
 <strong> Email:</strong> stergios [dot] christodoulidis [at] centralesupelec [dot] fr
 </p>
-
-<a href="https://twitter.com/Cstergios?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Cstergios</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 {% include axes.html %}
 
