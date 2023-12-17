@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    if (top.location.pathname === '/publications/') {
+    if (top.location.pathname === '/research/') {
         var x = new XMLHttpRequest();
         // Change the link to the appropriate one.
         x.open("GET", "https://dblp.org/pid/167/1074.xml", true);
