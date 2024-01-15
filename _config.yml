@@ -3,3 +3,6 @@ description: Stergios Christodoulidis Homepage
 url: "http://stergioc.github.io"
 
 plugins: ['jekyll-twitter-plugin']
+collections:
+  news:
+    output: true

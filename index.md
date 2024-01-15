@@ -21,6 +21,7 @@ I received a diploma in electrical and computer engineering at the Polytechnic S
 <strong> Email:</strong> stergios [dot] christodoulidis [at] centralesupelec [dot] fr
 </p>
 
+{% include news.html %}
 {% include axes.html %}
 
 
