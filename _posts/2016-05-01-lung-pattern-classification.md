@@ -4,7 +4,7 @@ title:  "Lung pattern classification for interstitial lung diseases using a deep
 date:   2016-05-01 00:00:00 +0100
 categories: [Radiology Data Quantification]
 tags: paper
-image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/42/7463083/7422082/7422082-fig-3-source-small.gif
+image: /assets/img/7422082-fig-3-source-small.gif
 ---
 Marios Anthimopoulos, Stergios Christodoulidis, Lukas Ebner, Andreas Christe, and Stavroula Mougiakakou
 
@@ -14,7 +14,7 @@ Marios Anthimopoulos, Stergios Christodoulidis, Lukas Ebner, Andreas Christe, an
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">
-        <img src="https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/42/7463083/7422082/7422082-fig-3-source-small.gif" width="100%"/>
+        <img src="/assets/img/7422082-fig-3-source-small.gif" width="100%"/>
     </div>
 </div>
 
