@@ -4,7 +4,7 @@ title: Research Highlights
 permalink: /research/
 ---
 
-{% include papers.html %}
+{% include research.html %}
 
 <h1 class="mb-5 display-4 pt-3" style="font-size: x-large;"> Publications List </h1>
 

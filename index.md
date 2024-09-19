@@ -18,10 +18,11 @@ I received a diploma in electrical and computer engineering at the Polytechnic S
 </p>
 
 <p>
-<strong> Email:</strong> stergios [dot] christodoulidis [at] centralesupelec [dot] fr
+<a href="https://twitter.com/Cstergios?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Cstergios</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
 {% include news.html %}
+{% include papers.html %}
 {% include axes.html %}
 
 
