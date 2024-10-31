@@ -26,4 +26,13 @@ I received a diploma in electrical and computer engineering at the Polytechnic S
 <h1 class="mt-4 mb-5 display-4" style="font-size: x-large;">Latest Publications</h1>
 {% include publications.html limit=4%}
 
+<h1 class="mt-4 mb-5 display-4" style="font-size: x-large;">Funding</h1>
 
+<div class="row">
+    <div class="col-md-4">
+        <img src="assets/img/snsf_logo.png" class="img-fluid" alt="Responsive Image">
+    </div>
+    <div class="col-md-4">
+        <img src="assets/img/anr_logo.png" class="img-fluid" alt="ANRlogo">
+    </div>
+<div>
