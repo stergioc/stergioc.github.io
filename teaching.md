@@ -3,6 +3,11 @@ layout: page
 title: Teaching
 ---
 
+**2024/2025**  
+<a href="https://centralesupelec.edunao.com/course/view.php?id=8968" target="_blank">MA9027: Foundations of Deep learning</a>, MSc DSBA, CentraleSupélec, *Fall 2024*   
+<a href="https://centralesupelec.edunao.com/course/view.php?id=9091" target="_blank">MA9038: Foundations of Deep learning</a>, MSc AI, CentraleSupélec, *Fall 2024*   
+<a href="https://centralesupelec.edunao.com/course/view.php?id=8326" target="_blank">3MD1050: Harmonic Analysis</a>, Tutorials on Applications, CS3A, CentraleSupélec, *Fall 2024* 
+
 **2023/2024**  
 <a href="https://centralesupelec.edunao.com/course/view.php?id=7005" target="_blank">3MD3220: Reinforcement Learning</a>, MSc DSBA, MSc AI, CS3A, CentraleSupélec, *Winter 2024*  
 <a href="https://centralesupelec.edunao.com/course/view.php?id=7535" target="_blank">MA9027: Foundations of Deep learning</a>, MSc DSBA, CentraleSupélec, *Fall 2023*   
