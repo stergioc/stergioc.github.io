@@ -16,9 +16,6 @@ title: News
     </div>
   </div>
 
-
-
-
   {% endfor %}
 </div>
 

@@ -2,7 +2,7 @@
 layout: page
 title:  "Spatio-Temporal Analysis of Patient-Derived Organoid Videos Using Deep Learning for the Prediction of Drug Efficacy"
 date:   2023-08-18 00:00:00 +0100
-categories: [Patient Derived Organoids]
+categories: [Tumor Organoids]
 tags: paper
 image: /assets/img/spatiotemporal_iccvw23.png
 short_desc: HER2 expression in metastatic breast cancer

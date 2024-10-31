@@ -23,6 +23,5 @@ I received a diploma in electrical and computer engineering at the Polytechnic S
 
 {% include news.html %}
 {% include papers.html %}
-{% include axes.html %}
 
 
