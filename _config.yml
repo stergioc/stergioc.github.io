@@ -6,3 +6,7 @@ plugins: ['jekyll-twitter-plugin']
 collections:
   news:
     output: true
+  research:
+    output: true
+  publications:
+    output: true

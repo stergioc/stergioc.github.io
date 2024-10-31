@@ -22,6 +22,8 @@ I received a diploma in electrical and computer engineering at the Polytechnic S
 </p>
 
 {% include news.html %}
-{% include papers.html %}
+
+<h1 class="mt-4 mb-5 display-4" style="font-size: x-large;">Latest Publications</h1>
+{% include publications.html limit=4%}
 
 
