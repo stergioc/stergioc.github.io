@@ -6,6 +6,7 @@ categories: [Patient Derived Organoids]
 tags: paper
 image: /assets/img/spatiotemporal_iccvw23.png
 short_desc: HER2 expression in metastatic breast cancer
+published_at: ICCV BioImage Computing Workshop 2023
 ---
 
 Leo Fillioux, Emilie Gontran, Jérôme Cartry, Jacques RR Mathieu, Sabrina Bedja, Alice Boilève, Paul-Henry Cournède, Fanny Jaulin, Stergios Christodoulidis, Maria Vakalopoulou

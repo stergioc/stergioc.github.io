@@ -5,6 +5,7 @@ date:   2019-07-28 00:00:00 +0100
 categories: [Learning Based Registration]
 tags: paper
 image: /assets/img/igarss19.png
+published_at: IGARSS 2019
 ---
 
 Maria Vakalopoulou, Stergios Christodoulidis, Mihir Sahasrabudhe, Stavroula Mougiakakou, and Nikos Paragios.

@@ -5,6 +5,7 @@ date:   2021-07-23 00:00:00 +0100
 categories: [Learning Based Registration]
 tags: paper
 image: /assets/img/dart21.png
+published_at: MICCAI 2021
 ---
 
 Théo Estienne, Maria Vakalopoulou, Stergios Christodoulidis, Enzo Battistella, Théophraste Henry, Marvin Lerousseau, Amaury Leroy, Guillaume Chassagnon, Marie-Pierre Revel, Nikos Paragios, Eric Deutsch

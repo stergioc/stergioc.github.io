@@ -5,6 +5,7 @@ date:   2019-03-01 00:00:00 +0100
 categories: [Radiology Data Quantification]
 tags: paper
 image: /assets/img/jbhi18.png
+published_at: IEEE-JBHI 2018
 ---
 
 Marios Anthimopoulos, Stergios Christodoulidis, Lukas Ebner, Thomas Geiser, Andreas Christe, Stavroula Mougiakakou

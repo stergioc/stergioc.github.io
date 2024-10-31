@@ -6,6 +6,7 @@ categories: [Computational Pathology]
 tags: paper
 image: /assets/img/miccai20.png
 short_desc: Region-guided CycleGANs for stain transfer
+published_at: MICCAI 2020
 ---
 
 Mihir Sahasrabudhe, Stergios Christodoulidis, Roberto Salgado, Stefan Michiels, Sherene Loi, Fabrice André, Nikos Paragios, Maria Vakalopoulou

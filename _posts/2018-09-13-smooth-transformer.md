@@ -5,6 +5,7 @@ date:   2018-09-13 00:00:00 +0100
 categories: [Learning Based Registration]
 tags: paper
 image: /assets/img/miccai18.png
+published_at: MICCAI RAMBO Workshop 2018
 ---
 
 Stergios Christodoulidis, Mihir Sahasrabudhe, Maria Vakalopoulou, Guillaume Chassagnon, Marie-Pierre Revel, Stavroula Mougiakakou, Nikos Paragios

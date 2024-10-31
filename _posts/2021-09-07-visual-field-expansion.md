@@ -6,6 +6,7 @@ categories: [Computational Pathology]
 tags: paper
 image: /assets/img/vfe.gif
 short_desc: Region-guided CycleGANs for stain transfer
+published_at: ICCV CDpath Workshop 2021
 ---
 
 Joseph Boyd, Mykola Liashuha, Eric Deutsch, Nikos Paragios, Stergios Christodoulidis, Maria Vakalopoulou

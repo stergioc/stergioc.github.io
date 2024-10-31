@@ -5,6 +5,7 @@ date:   2016-05-01 00:00:00 +0100
 categories: [Radiology Data Quantification]
 tags: paper
 image: /assets/img/7422082-fig-3-source-small.gif
+published_at: IEEE-TMI 2016
 ---
 Marios Anthimopoulos, Stergios Christodoulidis, Lukas Ebner, Andreas Christe, and Stavroula Mougiakakou
 

@@ -5,11 +5,12 @@ date:   2020-03-20 00:00:00 +0100
 categories: [Learning Based Registration]
 tags: paper
 image: https://www.frontiersin.org/files/Articles/482795/fncom-14-00017-HTML-r2/image_m/fncom-14-00017-g005.jpg
+published_at: Frontiers in Computational Neuroscience 2020
 ---
 
 Théo Estienne, Marvin Lerousseau, Maria Vakalopoulou, Emilie Alvarez Andres, Enzo Battistella, Alexandre Carré, Siddhartha Chandra, Stergios Christodoulidis, et al. 
 
-*Frontiers in computational neuroscience, Frontiers 2020*
+*Frontiers in Computational Neuroscience, Frontiers 2020*
 
 [[doi](https://doi.org/10.3389/fncom.2020.00017)]
 

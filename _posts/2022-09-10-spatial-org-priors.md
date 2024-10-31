@@ -6,6 +6,7 @@ categories: [Computational Pathology]
 tags: paper
 image: /assets/img/spatialorg_miccai22.png
 short_desc: Region-guided CycleGANs for stain transfer
+published_at: MICCAI 2022
 ---
 
 Loïc Le Bescond, Marvin Lerousseau, Ingrid Garberis, Fabrice André, Stergios Christodoulidis, Maria Vakalopoulou, Hugues Talbot
