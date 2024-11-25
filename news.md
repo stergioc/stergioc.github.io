@@ -19,4 +19,13 @@ title: News
   {% endfor %}
 </div>
 
-<a class="twitter-timeline" href="https://twitter.com/Cstergios?ref_src=twsrc%5Etfw">Tweets by Cstergios</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- <h1 class="mb-5 display-4" style="font-size: x-large;"> Social Feed </h1>
+
+  <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+  <bsky-embed
+    username="stergioc.bsky.social"
+    mode="dark"
+    limit="5"
+    load-more="true"
+  >
+  </bsky-embed> -->
