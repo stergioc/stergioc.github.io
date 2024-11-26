@@ -19,13 +19,12 @@ title: News
   {% endfor %}
 </div>
 
-<!-- <h1 class="mb-5 display-4" style="font-size: x-large;"> Social Feed </h1>
+<h1 class="mb-5 display-4" style="font-size: x-large;"> Social Feed </h1>
 
   <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
   <bsky-embed
     username="stergioc.bsky.social"
-    mode="dark"
     limit="5"
     load-more="true"
   >
-  </bsky-embed> -->
+  </bsky-embed>
