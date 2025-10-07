@@ -13,7 +13,7 @@ Loïc Le Bescond, Marvin Lerousseau, Ingrid Garberis, Fabrice André, Stergios C
 
 *MICCAI 2022*
 
-[[preprint](https://hal.archives-ouvertes.fr/hal-03644463/document)] [[code](https://github.com/loic-lb/Unsupervised-Nuclei-Segmentation-using-Spatial-Organization-Priors)]
+[[preprint](https://hal.archives-ouvertes.fr/hal-03644463/document){:target="_blank"}] [[code](https://github.com/loic-lb/Unsupervised-Nuclei-Segmentation-using-Spatial-Organization-Priors){:target="_blank"}]
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">

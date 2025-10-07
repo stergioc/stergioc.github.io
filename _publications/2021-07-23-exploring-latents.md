@@ -12,7 +12,7 @@ Théo Estienne, Maria Vakalopoulou, Stergios Christodoulidis, Enzo Battistella, 
 
 *MICCAI 2021, workshop on Domain Adaptation and Representation Transfer (DART)*
 
-[[arxiv](https://arxiv.org/abs/2107.11238)]
+[[arxiv](https://arxiv.org/abs/2107.11238){:target="_blank"}]
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">

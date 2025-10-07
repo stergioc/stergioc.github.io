@@ -12,7 +12,7 @@ Stergios Christodoulidis, Mihir Sahasrabudhe, Maria Vakalopoulou, Guillaume Chas
 
 *MICCAI 2018, workshop on Image Analysis for Moving Organ, Breast, and Thoracic Images (RAMBO)*
 
-[[proceedings](https://link.springer.com/chapter/10.1007/978-3-030-00946-5_2)], [[arxiv](https://arxiv.org/abs/1809.06226)], [[code](https://github.com/stergioc/smooth-transformer)]
+[[proceedings](https://link.springer.com/chapter/10.1007/978-3-030-00946-5_2){:target="_blank"}], [[arxiv](https://arxiv.org/abs/1809.06226){:target="_blank"}], [[code](https://github.com/stergioc/smooth-transformer){:target="_blank"}]
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">

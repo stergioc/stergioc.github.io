@@ -11,7 +11,7 @@ Marios Anthimopoulos, Stergios Christodoulidis, Lukas Ebner, Andreas Christe, an
 
 *Transacations on Medical Imaging, IEEE 2016*
 
-[[doi](http://dx.doi.org/10.1109/TMI.2016.2535865)], [[code](https://github.com/intact-project/ild-cnn)]
+[[doi](http://dx.doi.org/10.1109/TMI.2016.2535865){:target="_blank"}], [[code](https://github.com/intact-project/ild-cnn){:target="_blank"}]
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">

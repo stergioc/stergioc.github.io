@@ -12,7 +12,7 @@ Théo Estienne, Marvin Lerousseau, Maria Vakalopoulou, Emilie Alvarez Andres, En
 
 *Frontiers in Computational Neuroscience, Frontiers 2020*
 
-[[doi](https://doi.org/10.3389/fncom.2020.00017)]
+[[doi](https://doi.org/10.3389/fncom.2020.00017){:target="_blank"}]
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">

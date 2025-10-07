@@ -12,7 +12,7 @@ Marios Anthimopoulos, Stergios Christodoulidis, Lukas Ebner, Thomas Geiser, Andr
 
 *Journal of biomedical and health informatics, IEEE 2018*
 
-[[doi](https://doi.org/10.1109/JBHI.2018.2818620)], [[arxiv](https://arxiv.org/abs/1803.06167)], [[code](https://github.com/intact-project/LungNet)]
+[[doi](https://doi.org/10.1109/JBHI.2018.2818620){:target="_blank"}], [[arxiv](https://arxiv.org/abs/1803.06167){:target="_blank"}], [[code](https://github.com/intact-project/LungNet){:target="_blank"}]
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">

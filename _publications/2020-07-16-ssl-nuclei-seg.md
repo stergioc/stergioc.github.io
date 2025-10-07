@@ -13,7 +13,7 @@ Mihir Sahasrabudhe, Stergios Christodoulidis, Roberto Salgado, Stefan Michiels, 
 
 *MICCAI 2020*
 
-[[proceedings](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_38)], [[arxiv](https://arxiv.org/abs/2007.08373)], [[code](https://github.com/msahasrabudhe/miccai2020_self_sup_nuclei_seg)]
+[[proceedings](https://link.springer.com/chapter/10.1007/978-3-030-59722-1_38){:target="_blank"}], [[arxiv](https://arxiv.org/abs/2007.08373){:target="_blank"}], [[code](https://github.com/msahasrabudhe/miccai2020_self_sup_nuclei_seg){:target="_blank"}]
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">

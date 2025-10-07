@@ -10,7 +10,7 @@ published_at: IGARSS 2019
 
 Maria Vakalopoulou, Stergios Christodoulidis, Mihir Sahasrabudhe, Stavroula Mougiakakou, and Nikos Paragios.
 
-[[proceedings](https://doi.org/10.1109/IGARSS.2019.8898220)], [[pdf](https://hal.inria.fr/hal-02422555/file/Image_Registration_with_CNNs.pdf)]
+[[proceedings](https://doi.org/10.1109/IGARSS.2019.8898220){:target="_blank"}], [[pdf](https://hal.inria.fr/hal-02422555/file/Image_Registration_with_CNNs.pdf){:target="_blank"}]
 
 *IGARSS 2019*
 

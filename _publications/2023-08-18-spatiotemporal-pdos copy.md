@@ -13,7 +13,7 @@ Leo Fillioux, Emilie Gontran, Jérôme Cartry, Jacques RR Mathieu, Sabrina Bedja
 
 *ICCV BioImage Computing Workshop, 2023*
 
-[[arxiv](https://arxiv.org/abs/2308.14461)]
+[[arxiv](https://arxiv.org/abs/2308.14461){:target="_blank"}]
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">

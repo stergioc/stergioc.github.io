@@ -13,7 +13,7 @@ Joseph Boyd, Mykola Liashuha, Eric Deutsch, Nikos Paragios, Stergios Christodoul
 
 *ICCV 2021, workshop on Computational Challenges in Digital Pathology (CDpath)*
 
-[[arxiv](https://arxiv.org/abs/2109.03299)], [[code](https://github.com/jcboyd/cdpath21-gan)]
+[[arxiv](https://arxiv.org/abs/2109.03299){:target="_blank"}], [[code](https://github.com/jcboyd/cdpath21-gan){:target="_blank"}]
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">
