@@ -17,7 +17,7 @@ Leo Fillioux, Emilie Gontran, Jérôme Cartry, Jacques RR Mathieu, Sabrina Bedja
 
 <div class="row">
     <div class="mx-auto w-75 pb-5">
-        <img src="/assets/img/spatiotemporal_iccvw23.png" alt="natmed23" width="100%"/>
+        <img src="/assets/img/spatiotemporal_iccvw23.png" alt="iccv23" width="100%"/>
     </div>
 </div>
 
