@@ -3,6 +3,7 @@ layout: page
 title:  "Computational Pathology"
 image: /assets/img/img3.png
 short_desc: Automatic quantification and biomarker discovery of whole slide images for prediction and prognosis
+order: 2
 ---
 
 
