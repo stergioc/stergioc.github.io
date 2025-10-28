@@ -3,6 +3,9 @@ layout: page
 title: Teaching
 ---
 
+**2025/2026**  
+<a href="https://centralesupelec.edunao.com/course/view.php?id=10066" target="_blank">MA9038: Foundations of Deep learning</a>, MSc AI, CentraleSupélec, *Fall 2025*   
+
 **2024/2025**  
 <a href="https://centralesupelec.edunao.com/course/view.php?id=8301" target="_blank">3MD3220: Reinforcement Learning</a>, CS3A, MSc AI, CentraleSupélec, *Winter 2025*   
 <a href="https://centralesupelec.edunao.com/course/view.php?id=9543" target="_blank">MSCDSBA2030: Reinforcement Learning</a>, MSc DSBA, CentraleSupélec, *Winter 2025*  
@@ -29,3 +32,4 @@ title: Teaching
 
 **2020/2021**  
 <a href="https://centralesupelec.edunao.com/course/view.php?id=4042" target="_blank">MA9027: Foundations of Deep learning</a>, MSc DSBA, CentraleSupélec, *Fall 2021*
+
