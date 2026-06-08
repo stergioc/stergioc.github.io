@@ -30,13 +30,22 @@ Follow me <a href="https://bsky.app/profile/stergioc.bsky.social" target="_blank
 <h1 class="mt-4 mb-5 display-4" style="font-size: x-large;">Latest Publications</h1>
 {% include publications.html limit=4%}
 
-<h1 class="mt-4 mb-5 display-4" style="font-size: x-large;">Funding</h1>
+<h1 class="mt-4 mb-5 display-4" style="font-size: x-large;">Current Funding</h1>
 
 <div class="row justify-content-center align-items-center">
-    <div class="col-md-4">
-        <img src="assets/img/anr_logo.png" class="img-fluid" alt="ANRlogo">
+    <div class="col-md-3">
+        <a href="https://anr.fr/" target="_blank">
+            <img src="assets/img/anr_logo.png" class="img-fluid" alt="ANRlogo">
+        </a>
     </div>
     <div class="col-md-3">
-        <img src="assets/img/dataia.png" class="img-fluid" alt="DATAIAlogo">
+        <a href="https://www.dataia.eu/" target="_blank">
+            <img src="assets/img/dataia.png" class="img-fluid" alt="DATAIAlogo">
+        </a>
+    </div>
+    <div class="col-md-3">
+        <a href="https://pepr-santenum.fr/" target="_blank">
+            <img src="assets/img/logo-pepr.png" class="img-fluid" alt="PEPRlogo">
+        </a>
     </div>
 <div>
