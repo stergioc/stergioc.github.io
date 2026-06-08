@@ -34,9 +34,6 @@ Follow me <a href="https://bsky.app/profile/stergioc.bsky.social" target="_blank
 
 <div class="row justify-content-center align-items-center">
     <div class="col-md-4">
-        <img src="assets/img/snsf_logo.png" class="img-fluid" alt="Responsive Image">
-    </div>
-    <div class="col-md-4">
         <img src="assets/img/anr_logo.png" class="img-fluid" alt="ANRlogo">
     </div>
     <div class="col-md-3">
