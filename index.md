@@ -27,10 +27,10 @@ Follow me <a href="https://bsky.app/profile/stergioc.bsky.social" target="_blank
 
 {% include news.html %}
 
-<h1 class="mt-4 mb-5 display-4" style="font-size: x-large;">Latest Publications</h1>
+<h1 class="mt-4 mb-4 display-4" style="font-size: x-large;">Latest Publications</h1>
 {% include publications.html limit=4%}
 
-<h1 class="mt-4 mb-5 display-4" style="font-size: x-large;">Current Funding</h1>
+<h1 class="mt-4 mb-4 display-4" style="font-size: x-large;">Current Funding</h1>
 
 <div class="row justify-content-center align-items-center">
     <div class="col-md-3">
