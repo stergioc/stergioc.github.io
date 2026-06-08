@@ -32,11 +32,14 @@ Follow me <a href="https://bsky.app/profile/stergioc.bsky.social" target="_blank
 
 <h1 class="mt-4 mb-5 display-4" style="font-size: x-large;">Funding</h1>
 
-<div class="row">
+<div class="row justify-content-center align-items-center">
     <div class="col-md-4">
         <img src="assets/img/snsf_logo.png" class="img-fluid" alt="Responsive Image">
     </div>
     <div class="col-md-4">
         <img src="assets/img/anr_logo.png" class="img-fluid" alt="ANRlogo">
+    </div>
+    <div class="col-md-3">
+        <img src="assets/img/dataia.png" class="img-fluid" alt="DATAIAlogo">
     </div>
 <div>
