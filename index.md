@@ -48,4 +48,9 @@ Follow me <a href="https://bsky.app/profile/stergioc.bsky.social" target="_blank
             <img src="assets/img/logo-pepr.png" class="img-fluid" alt="PEPRlogo">
         </a>
     </div>
+    <div class="col-md-3">
+        <a href="https://commission.europa.eu/" target="_blank">
+            <img src="assets/img/eu-funding.webp" class="img-fluid" alt="EUlogo">
+        </a>
+    </div>
 <div>
